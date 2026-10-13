@@ -1,6 +1,6 @@
 # tp.collaboration
 
-# Modifierpour rebase :
+# Modifierpour rebase b :
 
  "Bienvenue dans le projet
 >> # de l'etudiant B.> >
