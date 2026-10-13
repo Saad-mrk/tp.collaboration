@@ -3,7 +3,7 @@ projet de l'etudiant B
 
 # tp.collaboration
 
-# Modifier la ligne :
+# Modifierpour rebase:
 
 > > # "Bienvenue dans le projet
 > >
